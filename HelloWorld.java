@@ -6,7 +6,7 @@ public class HelloWorld{
     System.out.println("      .");
     System.out.println("   __/ \\__");
     System.out.println("   \\     /");
-    System.out.println("    /.'0'.\\");
+    System.out.println("   /.'0'.\\");
     System.out.println("    .0.'.");
     System.out.println("   .'.'0'.");
     System.out.println("  0'.0.'.0.");
